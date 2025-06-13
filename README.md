@@ -31,4 +31,4 @@ Helps optimize recruitment processes.
 Supports DE&I and employee development strategies.
 
 6. Screenshots / Demos
-Dashboard preview:
+Dashboard preview:(https://github.com/Suryateja76/HR-Analytics-Dashboard/blob/main/hr%20analytics%20%20dashboard%20pic.png)
